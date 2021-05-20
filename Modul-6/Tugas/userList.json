@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Brian A",
+        "address" : "Palangka Raya, Indonesia",
+        "image" : "https://instagram.fbdj4-1.fna.fbcdn.net/v/t51.2885-19/s150x150/96584567_2616337145348134_7041195683147153408_n.jpg?tp=1&_nc_ht=instagram.fbdj4-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=u0zPBdRKZv0AX9-rasY&edm=ABfd0MgBAAAA&ccb=7-4&oh=b1d12818e41e0be8a99268c3ef99a82c&oe=60CA7D2A&_nc_sid=7bff83"
+    },
+    {
+        "name" : "Yulia C",
+        "address" : "Bogorodsk, Russia",
+        "image" : "https://randomuser.me/api/portraits/women/31.jpg"
+    },
+    {
+        "name" : "James McCoy",
+        "address" : "Minnesota, USA",
+        "image" : "https://randomuser.me/api/portraits/men/94.jpg"
+    },
+    {
+        "name" : "Yuki M",
+        "address" : "Hokkaido, Japan",
+        "image" : "https://randomuser.me/api/portraits/women/60.jpg"
+    },
+    {
+        "name" : "Sebastian C",
+        "address" : "Belgrade, Serbia",
+        "image" : "https://randomuser.me/api/portraits/men/46.jpg"
+    }
+]
