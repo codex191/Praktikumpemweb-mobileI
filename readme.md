@@ -4,7 +4,7 @@ Nama : Brian Agustian Kristianto <br>
 NIM  : 193030503066
 
 1. Dalam Modul 1, merupakan pengenalan dasar-dasar PHP.
-![image](https://ibb.co/vxjQhT5)
+![image](https://i.postimg.cc/XvxCF6js/1.png)
 
 
 3. Dalam Modul 2, bagaimana cara pembuatan Form Handling dengan syarat-syarat yang ditentukan.
